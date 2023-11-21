@@ -1,0 +1,3 @@
+# desafio01Ruby
+Repositório criado para fins de avaliação da plataforma DIO...
+Sendo esse o primeiro desafio da trilha de Ruby Developer
